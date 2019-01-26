@@ -1,0 +1,26 @@
+body {
+  color: grey;
+}
+
+.important {
+  color: red;
+}
+
+.overall p {
+  font-family: cursive;
+}
+
+img {
+  width: 500px;
+}
+
+.sidebar {
+  width: 50%;
+  padding: 10px;
+  float: right;
+  background-color: #ff4d4d;
+  color: white;
+}
+.accom img {
+  width: auto;
+}
